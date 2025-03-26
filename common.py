@@ -1,0 +1,1 @@
+common_list = [' am working on sir ','just a second ' ,'let me give a minit']
